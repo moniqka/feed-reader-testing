@@ -8,7 +8,7 @@ This project demonstrates unit tests using Jasmine. The project was made for Uda
 2. Right click on index.html and open it in your browser
 3. The test results appears at the bottom of the page
 
-(Tests are written in the Jasmine folder -> feedreader.js file)
+(Tests are written in the Jasmine/spec folder -> feedreader.js file)
 
 ## Tests
 
